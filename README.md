@@ -189,15 +189,13 @@ The generated vertical word-length frequency histogram.
 
 ---
 
-# Team Members
+## Team Members
 
-This project was developed collaboratively as a **group project** by:
-
-| Name | Role |
-|------|------|
-| Abhay S Nagure | Team Member |
-| Abhishek P Karadi | Team Member |
-| Vinyas V Kulkarni | Team Member |
+| Name | GitHub | Role |
+|------|--------|------|
+| Abhay S Nagure | [@abhaynagure](https://github.com/abhaynagure) | Team Member |
+| Abhishek P Karadi | — | Team Member |
+| Vinyas V Kulkarni | [@Vinyask17](https://github.com/Vinyask17) | Team Member |
 
 ---
 
