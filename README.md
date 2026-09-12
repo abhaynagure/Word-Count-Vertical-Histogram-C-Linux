@@ -1,5 +1,4 @@
-# Word Count and Vertical Histogram Generation Using File Handling in
-C on Linux
+# Word Count and Vertical Histogram Generation Using File Handling in C on Linux
 
 A C programming project that reads words from a text file, analyzes their lengths, and generates a vertical frequency histogram in the Linux terminal.
 
