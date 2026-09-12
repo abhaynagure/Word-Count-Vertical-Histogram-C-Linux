@@ -1,0 +1,4 @@
+Linux makes small tools powerful.
+C programs read input, count words, and print clear terminal output.
+This sample file is used to test a vertical word length histogram.
+Portable code stays useful on many Unix and Linux systems.

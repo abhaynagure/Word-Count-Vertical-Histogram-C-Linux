@@ -1,0 +1,6 @@
+word_histogram
+word_histogram.exe
+*.o
+*.out
+.vscode/
+.idea/
